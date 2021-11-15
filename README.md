@@ -1,6 +1,6 @@
 # Excellence
 
-url : http://localhost/excellence/index.php 
+url : http://localhost/demo/index.php
 
 servername = "localhost";
 username = "root";
